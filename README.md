@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me
-<img width="2944" height="1440" alt="Image" src="https://github.com/user-attachments/assets/f99e2d22-fd45-4ab5-89e7-df29129ab951" />
+![1764329556487~2.jpg](https://github.com/user-attachments/assets/46b1470c-69e8-479f-9c21-af5574cc5dd1)
 
 ### 👋 I’m <strong>LifeAtul</strong>  
 
