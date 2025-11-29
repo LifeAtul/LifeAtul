@@ -6,8 +6,7 @@
 ### 👋 I’m <strong>LifeAtul</strong>  
 
 A growing software developer focused on <strong>backend development</strong>, <strong>system design</strong>,  
-and <strong>machine learning</strong>.  
-I enjoy exploring new technologies, understanding how systems work behind the scenes,  
+and <strong>machine learning</strong>. I enjoy exploring new technologies, understanding how systems work behind the scenes,  
 and building tools that are reliable, efficient, and genuinely useful.
 
 </div>
